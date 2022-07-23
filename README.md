@@ -1,7 +1,7 @@
 # LC-Practice (C++)
 Leetcode solutions, tips and notes
 
-#Arrays and Hashing: 
+# Arrays and Hashing: 
 
 Contains dublicate: 
 
@@ -11,4 +11,4 @@ Notes: Sort works with begin and end, Remmeber to check vector content and not a
 
 Valid Anangram: 
 
-#Two Pointers: 
+# Two Pointers: 
