@@ -15,4 +15,10 @@ First thought: Given both strings, sort both strings, if every char in the strin
 
 Notes: Returning false if strings are different sizes
 
+Two Sum: 
+
+First thought: For each iteration, check the whole array for anything that when added to the iteration, leads to the number, this is an O(n^2) solution
+
+Notes: Cannot use same element twice - being the same iteration, still can have different iteration but same content in those iterations, 
+
 # Two Pointers: 
