@@ -11,4 +11,8 @@ Notes: Sort works with begin and end, Remmeber to check vector content and not a
 
 Valid Anangram: 
 
+First thought: Given both strings, sort both strings, if every char in the string matches, return true, else false
+
+Notes: Returning false if strings are different sizes
+
 # Two Pointers: 
