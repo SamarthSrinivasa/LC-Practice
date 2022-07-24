@@ -1,3 +1,5 @@
+//First Solution
+
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
@@ -10,3 +12,8 @@ public:
         return false;
     }
 };
+
+//Success
+//Details 
+//Runtime: 191 ms, faster than 16.70% of C++ online submissions for Contains Duplicate.
+//Memory Usage: 46.7 MB, less than 78.99% of C++ online submissions for Contains Duplicate.
