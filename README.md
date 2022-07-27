@@ -29,7 +29,7 @@ Notes: Only contains lowercase letters, The maps key must be a string but the va
 
 ## Top K Frequent Elements: 
 
-First Thought: 
+First Thought: K frequent elements asks for k number of repeating elements, so with the example {1,1,2,2,2,3,3,3,3,4,4,4,4,4,5,5,6,6,6} and K being 2, it will return {4, 3}, the two most repeated elements. First thought would be to create a hashmap with the all the individual numbers being keys, and just count the number of values in each key and return k keys. In order to count the 
 
 Notes: 
 
